@@ -6,15 +6,6 @@ Authors:
 2. Pragay Shourya Moudgil
 
 
-Python: 
-NumPy: 
-Pandas: 
-Scikit-learn: 
-json: 
-Matplotlib: 
-TensorFlow: 
-Seaborn: 
-
 # Libraries used in the code
  Python version 3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 15:03:56) [MSC v.1929 64 bit (AMD64)] [4]
  Scikit-Learn version 1.4.2 [1]  
@@ -23,16 +14,16 @@ Seaborn:
  Standard libraries random and warnings [4]  
  tqdm [5]  
  pandas version 2.2.2 [6]  
- json version 2.0.9 [7]
- tensorflow version 2.18.0 [8]
- seaborn version 0.13.2 [9]
+ json version 2.0.9 [7]  
+ tensorflow version 2.18.0 [8]  
+ seaborn version 0.13.2 [9]  
 
 # Code sources used in the code
 GitHub CoPilot  
-Project 1 [10]
-Exercises week 41 [11]
-Exercises week 42 [12]
-Exercises week 43 [13]
+Project 1 [10]  
+Exercises week 41 [11]  
+Exercises week 42 [12]  
+Exercises week 43 [13]  
 
   
 [1] F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Pret-
@@ -56,7 +47,7 @@ and Jarrod Millman, editors, Proceedings of the 9th Python in Science Conference
 2010.  
 [7] Felipe Pezoa, Juan L Reutter, Fernando Suarez, Mart´ın Ugarte, and Domagoj Vrgoˇc. Foundations
 of json schema. In Proceedings of the 25th International Conference on World Wide Web, pages
-263–273. International World Wide Web Conferences Steering Committee, 2016.
+263–273. International World Wide Web Conferences Steering Committee, 2016.  
 [8] Mart´ın Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S.
 Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew
 Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath
