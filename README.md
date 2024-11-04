@@ -64,11 +64,11 @@ Kudlur, Josh Levenberg, Dandelion Man´e, Rajat Monga, Sherry Moore, Derek Murra
 Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker,
 Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi´egas, Oriol Vinyals, Pete Warden, Martin
 Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. TensorFlow: Large-scale machine
-learning on heterogeneous systems, 2015. Software available from tensorflow.org
+learning on heterogeneous systems, 2015. Software available from tensorflow.org  
 [9] Michael L. Waskom. seaborn: statistical data visualization. Journal of Open Source Software,
-6(60):3021, 2021
+6(60):3021, 2021  
 [10] Britt Haanen and Pragay Shourya Moudgil. Project 1: Modeling digital elevation model using
-machine learning. Course project submission, October 2024
-[11] M Hjorth-Jensen. Exercises week 41. Course exercise session, October 2024.
-[12] M Hjorth-Jensen. Exercises week 42. Course exercise session, October 2024.
+machine learning. Course project submission, October 2024  
+[11] M Hjorth-Jensen. Exercises week 41. Course exercise session, October 2024.  
+[12] M Hjorth-Jensen. Exercises week 42. Course exercise session, October 2024.  
 [13] M Hjorth-Jensen. Exercises week 43. Course exercise session, October 2024.
